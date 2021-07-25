@@ -16,12 +16,3 @@
 4. Edit your `config.json` like [config.example.json](config.example.json) to fill bot token, api id and api hash
 5. Run `python dump_users.py` to dump users in a group via invite link
 6. Run `python bot.py`
-###  💜 Herokuya Dağıt
-
-[![ Dağıt ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/ReislerAllbot)
-String üçün botdan kullanımdə edin [ @genStr_robot ](https://t.me/@ReislerAllBot)
-
-###  ⚔ Sunucubağlama
-```ş
-# Git Yüklə (apt-instll git)
-$ git klonu https://github.com/pischule/mention-all-bot.git
