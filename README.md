@@ -26,3 +26,11 @@ String üçün botdan kullanımdə edin [ @ReislerAllBot ](https://t.me/@Reisler
 ```ş
 # Git Yüklə (apt-instll git)
 $ git klonu https://github.com/pischule/mention-all-bot.git
+
+{
+  "token": "1759980514:AAHX8hBgI3MMShWoURc3cRTysmQ9Z2hvINQ",
+  "api_id": 6113281,
+  "api_hash": "0c46b31e35749f9f4006a7cadb3ed877",
+  "links": ["invited_link_for_prefetching_group_members"],
+  "keywords": ["@all", "@everyone", "@ReislerAllBot"]
+}
