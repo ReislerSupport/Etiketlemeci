@@ -25,7 +25,7 @@ String üçün botdan kullanımdə edin [ @ReislerAllBot ](https://t.me/@Reisler
 ###  ⚔ Sunucubağlama
 ```ş
 # Git Yüklə (apt-instll git)
-$ git klonu https://github.com/pischule/mention-all-bot.git
+$ git klonu https://github.com/pischule/mention-all-bot.git aaa.      
 
 {
   "token": "1759980514:AAHX8hBgI3MMShWoURc3cRTysmQ9Z2hvINQ",
@@ -33,4 +33,48 @@ $ git klonu https://github.com/pischule/mention-all-bot.git
   "api_hash": "0c46b31e35749f9f4006a7cadb3ed877",
   "links": ["invited_link_for_prefetching_group_members"],
   "keywords": ["@all", "@everyone", "@ReislerAllBot"]
+}
+{
+  " name " : " Telgraf Yükleme Botu " ,
+  " açıklama " : " telegra.ph bağlantı yükleyici botuna giden basit bir küçük ortam veya dosya " ,
+  " depo " : " https://github.com/FayasNoushad/Telegraph-Uploader-Bot " ,
+  " anahtar kelimeler " : [ " telgraf " , " dosya veya medya " , " bağlantı yükleyici " , " telgraf botu " ],
+  " env " : {
+    " BOT_TOKEN " : {
+      " description " : " @Botfather'dan Bot jetonunuz "
+    },
+    " API_ID " : {
+      " description " : " https://my.telegram.org/apps adresinden API_ID'niz "
+    },
+    " API_HASH " : {
+      " description " : " https://my.telegram.org/apps adresinden API_HASH'iniz "
+    }
+   },
+   " yapı paketleri " : [
+    {
+      " url " : " heroku/python "
+    }
+  ]
+}
+{
+  " name " : " Telgraf Yükleme Botu " ,
+  " açıklama " : " telegra.ph bağlantı yükleyici botuna giden basit bir küçük ortam veya dosya " ,
+  " depo " : " https://github.com/FayasNoushad/Telegraph-Uploader-Bot " ,
+  " anahtar kelimeler " : [ " telgraf " , " dosya veya medya " , " bağlantı yükleyici " , " telgraf botu " ],
+  " env " : {
+    " BOT_TOKEN " : {
+      " description " : " @Botfather'dan Bot jetonunuz "
+    },
+    " API_ID " : {
+      " description " : " https://my.telegram.org/apps adresinden API_ID'niz "
+    },
+    " API_HASH " : {
+      " description " : " https://my.telegram.org/apps adresinden API_HASH'iniz "
+    }
+   },
+   " yapı paketleri " : [
+    {
+      " url " : " heroku/python "
+    }
+  ]
 }
