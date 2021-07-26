@@ -1,0 +1,6 @@
+işletim sistemini içe aktar
+
+BOT_TOKEN  =  os . çevre . al ( "BOT_TOKEN" )
+APP_ID  =  int ( os . environ . get ( "API_ID" ))
+API_HASH  =  işletim sistemi . çevre . al ( "API_HASH" )
+
